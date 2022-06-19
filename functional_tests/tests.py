@@ -135,3 +135,4 @@ class NewVisitorTest(LiveServerTestCase):
             512,
             delta=10
         )
+    # https://www.obeythetestinggoat.com/book/chapter_prettification.html
