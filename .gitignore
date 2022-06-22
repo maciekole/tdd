@@ -4,3 +4,4 @@ geckodriver.exe
 venv
 *.pyc
 __pycache__
+/static
