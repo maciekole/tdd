@@ -140,5 +140,3 @@ class NewVisitorTest(StaticLiveServerTestCase):
             512,
             delta=10
         )
-
-    # https://www.obeythetestinggoat.com/book/chapter_manual_deployment.html
