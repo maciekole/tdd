@@ -7,7 +7,6 @@ class NewVisitorTest(FunctionalTest):
     def test_can_start_a_list_for_one_users(self):
         # Edith has heard about a cool new online to-do app. She goes
         # to check out its homepage
-        print('self.live_server_url: ', self.live_server_url)
         self.browser.get(self.live_server_url)
 
         # She notices the page title and header mention to-do lists
